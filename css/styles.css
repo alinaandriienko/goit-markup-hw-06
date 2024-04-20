@@ -13,7 +13,7 @@ ol {
 }
 
 .nav-logo {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -26,7 +26,7 @@ ol {
   color: #2e2f42;
 }
 
-.menu .link {
+.menu-link {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
@@ -77,6 +77,7 @@ ol {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  font-family: "Roboto", sans-serif;
 }
 
 .button-title:hover,
@@ -118,7 +119,15 @@ ol {
 .footer {
   background-color: #2e2f42;
 }
-
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
 .logo {
   color: #f4f4fd;
 }
