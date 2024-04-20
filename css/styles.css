@@ -43,11 +43,14 @@ ol {
   color: #404bbf;
 }
 
+.page-adress {
+  font-style: normal;
+}
+
 .address-link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-style: normal;
   color: #434455;
 }
 
@@ -64,6 +67,7 @@ ol {
   text-align: center;
   letter-spacing: 0.02em;
 }
+
 .main-title {
   font-size: 56px;
   line-height: 1.07;
@@ -120,6 +124,7 @@ ol {
 .footer {
   background-color: #2e2f42;
 }
+
 .logo-footer {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -129,6 +134,7 @@ ol {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 .logo {
   color: #f4f4fd;
 }
