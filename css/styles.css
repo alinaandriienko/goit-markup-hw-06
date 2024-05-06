@@ -133,13 +133,13 @@ body {
   background-color: #2e2f42;
   color: #ffffff;
   text-align: center;
+  padding-top: 188px;
+  padding-bottom: 188px;
+  padding-left: 472px;
+  padding-right: 350px;
 }
 
 .hero-container {
-  padding-top: 188px;
-  padding-bottom: 188px;
-  padding-left: 350px;
-  padding-right: 300px;
 }
 
 .main-title {
@@ -186,6 +186,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .text {
@@ -225,19 +226,23 @@ body {
   gap: 48px 24px;
 }
 
+.portfolio-container {
+  border-top: none;
+}
+
 /* ---FOOTER--- */
 .footer {
   background-color: #2e2f42;
   max-width: 1440px;
   margin-left: auto;
   margin-right: auto;
-}
-
-.footer-container {
   padding-top: 100px;
   padding-bottom: 100px;
   padding-left: 156px;
-  padding-right: 700px;
+  padding-right: 950px;
+}
+
+.footer-container {
 }
 
 .logo-footer {
@@ -248,7 +253,6 @@ body {
   letter-spacing: 0.03em;
   color: #4d5ae5;
   margin-bottom: 16px;
-  display: inline-block;
 }
 
 .logo {
