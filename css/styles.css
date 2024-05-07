@@ -247,11 +247,10 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
-  row-gap: 48px;
 }
 
-.list-item:not(:last-child) {
-  margin-bottom: 0;
+.position-item:not(:last-child) {
+  margin-right: 0;
 }
 
 .portfolio-container {
