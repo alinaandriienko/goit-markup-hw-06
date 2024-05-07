@@ -252,6 +252,10 @@ body {
   row-gap: 48px;
 }
 
+.list-item:not(:last-child) {
+  margin-right: 0;
+}
+
 .portfolio-list {
   width: calc((100% - 48px) / 3);
 }
