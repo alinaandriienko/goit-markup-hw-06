@@ -160,7 +160,7 @@ body {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  padding-bottom: 51px;
+  margin-bottom: 51px;
 }
 
 .button-title {
@@ -183,8 +183,10 @@ body {
 
 /* ---DESCRIPTION--- */
 .description {
-  padding-top: 132px;
-  padding-bottom: 120px;
+  margin-top: 66px;
+  margin-bottom: 60px;
+  padding-top: 66px;
+  padding-bottom: 60px;
 }
 
 .description-container {
@@ -227,6 +229,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  margin-bottom: 60px;
+  padding-bottom: 60px;
 }
 
 .team-title {
@@ -236,6 +240,8 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding-top: 120px;
+  padding-bottom: 72px;
 }
 
 .team-list {
@@ -243,7 +249,6 @@ body {
   flex-wrap: wrap;
   column-gap: 24px;
   border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
 }
 
 .team-container {
@@ -273,6 +278,8 @@ body {
   max-width: 1440px;
   margin-left: auto;
   margin-right: auto;
+  padding-bottom: 60px;
+  margin-bottom: 60px;
 }
 
 .portfolio-title {
