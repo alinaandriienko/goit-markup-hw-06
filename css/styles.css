@@ -139,18 +139,15 @@ body {
 
 /* ---HERO--- */
 .hero {
-  max-width: 1440px;
-  margin-left: auto;
-  margin-right: auto;
   background-color: #2e2f42;
   color: #ffffff;
-  padding-top: 188px;
-  padding-bottom: 188px;
 }
 
 .hero-container {
   padding-left: 325px;
   padding-right: 300px;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 
 .main-title {
@@ -159,7 +156,7 @@ body {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  margin-bottom: 51px;
+  text-align: center;
 }
 
 .button-title {
@@ -184,8 +181,6 @@ body {
 
 /* ---DESCRIPTION--- */
 .description {
-  margin-top: 66px;
-  margin-bottom: 60px;
 }
 
 .description-container {
@@ -224,11 +219,6 @@ body {
 /* ---TEAM --- */
 .team {
   background-color: #f4f4fd;
-  max-width: 1440px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  margin-bottom: 60px;
 }
 
 .team-title {
@@ -257,8 +247,6 @@ body {
 
 .team-container {
   background-color: #ffffff;
-  padding-top: 32px;
-  padding-bottom: 32px;
 }
 
 .team-content {
@@ -280,10 +268,6 @@ body {
 
 /* ---PORTFOLIO--- */
 .portfolio {
-  max-width: 1440px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 60px;
 }
 
 .portfolio-title {
@@ -337,10 +321,7 @@ body {
 
 /* ---FOOTER--- */
 .footer {
-  max-width: 1440px;
   background-color: #2e2f42;
-  margin-left: auto;
-  margin-right: auto;
   padding-top: 100px;
   padding-bottom: 100px;
 }
@@ -354,7 +335,6 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
   display: inline-block;
-  margin-bottom: 16px;
 }
 
 .logo {
