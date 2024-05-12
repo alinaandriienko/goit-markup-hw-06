@@ -141,13 +141,13 @@ body {
 .hero {
   background-color: #2e2f42;
   color: #ffffff;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 
 .hero-container {
   padding-left: 325px;
   padding-right: 300px;
-  padding-top: 188px;
-  padding-bottom: 188px;
 }
 
 .main-title {
@@ -246,6 +246,11 @@ body {
 }
 
 .team-container {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.team-container {
   background-color: #ffffff;
 }
 
@@ -267,9 +272,6 @@ body {
 }
 
 /* ---PORTFOLIO--- */
-.portfolio {
-}
-
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -335,6 +337,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
   display: inline-block;
+  margin-bottom: 16px;
 }
 
 .logo {
