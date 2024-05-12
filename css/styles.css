@@ -145,9 +145,6 @@ body {
   padding-bottom: 188px;
 }
 
-.hero-container {
-}
-
 .main-title {
   max-width: 496px;
   font-weight: 700;
@@ -180,8 +177,6 @@ body {
 }
 
 /* ---DESCRIPTION--- */
-.description {
-}
 
 .description-container {
   padding-left: 14px;
