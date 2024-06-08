@@ -426,7 +426,6 @@ body {
 .container-item {
   display: flex;
   align-items: baseline;
-  max-width: 1440px;
   margin: 0 auto;
 }
 
